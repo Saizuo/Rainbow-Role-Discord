@@ -1,7 +1,7 @@
 # Rainbow-Role-Discord
 
 <div align="center">
-<img width="100%" height = "250px" src="https://external-preview.redd.it/R9_TN3clkDRPLtfMQTI0P_ORB0vCriJbQoeq4xI9XCo.png?auto=webp&s=cc82205dc9e2ba920dfc96bc1e7931f2ded76dd0" alt="cover" />
+<img src="https://external-preview.redd.it/R9_TN3clkDRPLtfMQTI0P_ORB0vCriJbQoeq4xI9XCo.png?auto=webp&s=cc82205dc9e2ba920dfc96bc1e7931f2ded76dd0" alt="cover" />
 </div>
 
 
