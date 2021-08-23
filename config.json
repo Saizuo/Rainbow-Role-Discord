@@ -1,0 +1,6 @@
+{
+    "serverID": "740429635577446512", //ur server id 
+    "roleID": "827797954718072852", //ur role id
+    "interval": "100" //intervals per role change (the higher it goes = lags , the lower it goes = less lag)
+}
+
